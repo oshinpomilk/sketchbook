@@ -22,7 +22,13 @@
   - フランクな感じで気軽につけちゃって大丈夫です。
   度が過ぎて人が傷つく誹謗中傷が無ければなんでもアリです。
 
+- sketchbookのgit cloneの仕方
+    - [こちら参照](https://qiita.com/masamitsu-konya/items/abb572337156e4d003cf)
 
-### etc
+- markdownの書き方
+    - [こちら参照](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
+    
+
+## etc
 **編集中**
 
