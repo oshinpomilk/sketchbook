@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0601530a-a08f-4db4-b823-662db4aa47b0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tarou/ruby_toybox/.gitignore" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tarou/ruby_toybox/test.rb" afterPath="$PROJECT_DIR$/tarou/ruby_toybox/test.rb" />
     </list>
@@ -30,8 +31,8 @@
       <file leaf-file-name="test.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tarou/ruby_toybox/test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -301,12 +302,12 @@
       <workItem from="1519138160816" duration="3890000" />
       <workItem from="1519227118383" duration="425000" />
       <workItem from="1519263928688" duration="419000" />
-      <workItem from="1519610904621" duration="1680000" />
+      <workItem from="1519610904621" duration="2777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6414000" />
+    <option name="totallyTimeSpent" value="7511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1892" y="23" width="1920" height="1053" extended-state="0" />
@@ -421,8 +422,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tarou/ruby_toybox/test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding />
         </state>
       </provider>
