@@ -1,0 +1,6 @@
+.boxdayo{
+    border: solid black 1px;
+    width: auto; height: 100px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 1000px #000
+}
